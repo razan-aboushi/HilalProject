@@ -18,4 +18,4 @@
 
 ### The live code :
 
-[live code](https://razan-aboushi.github.io/HilalProject/) .
+* [live code](https://razan-aboushi.github.io/HilalProject/) .
